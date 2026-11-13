@@ -1,0 +1,20 @@
+User-Agent: *
+Allow: /
+Disallow: /en/app
+Disallow: /en/onboarding
+Disallow: /en/login
+Disallow: /en/signup
+Disallow: /en/reset
+Disallow: /ru/app
+Disallow: /ru/onboarding
+Disallow: /ru/login
+Disallow: /ru/signup
+Disallow: /ru/reset
+Disallow: /de/app
+Disallow: /de/onboarding
+Disallow: /de/login
+Disallow: /de/signup
+Disallow: /de/reset
+
+Host: https://vakuumjava.github.io/nonius-prototype
+Sitemap: https://vakuumjava.github.io/nonius-prototype/sitemap.xml

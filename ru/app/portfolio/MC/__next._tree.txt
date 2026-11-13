@@ -1,0 +1,9 @@
+:HL["/nonius-prototype/_next/static/chunks/14hj_2n0u0gc4.css","style"]
+:HC["/",""]
+:HL["/nonius-prototype/_next/static/chunks/2-slrqjd5h6gx.css","style"]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"ticker","t":"d","k":"MC","s":[]},"h":96,"c":"$Q5"}]]
+3:[["children",{"s":"portfolio","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"app","h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":112,"c":"$Q2"}]]
+0:{"b":"gY58P08jB0qGFwT-HSCS8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
